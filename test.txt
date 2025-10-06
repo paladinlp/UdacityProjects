@@ -1,5 +1,6 @@
 Hello.world！！！！！
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 
@@ -7,3 +8,7 @@ Hello.world！！！！！
 =======
 3213123123123123123123
 >>>>>>> 7831a3a (modified bt user2)
+=======
+
+3213123123
+>>>>>>> 0cd19af (add test1 by user1)
